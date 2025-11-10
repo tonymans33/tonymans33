@@ -1,6 +1,6 @@
 <!-- Banner / Title -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tonymans33/tonymans33/main/tony_banner.png" alt="Tony Mansour — Backend Engineer Banner"/>
+  <img src="https://github.com/tonymans33/tonymans33/blob/master/tony_banner.png" alt="Tony Mansour — Backend Engineer Banner"/>
 </p>
 
 
