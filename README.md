@@ -18,6 +18,14 @@ Backend Engineer with experience in Laravel, Node.js and microservices. I design
 </div>
 
 ---
+<p align="center">
+  <a href="https://drive.google.com/file/d/1KNsol2e3gAkN1-VRCSNPnBYO6zYwYoC1/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20CV-%23bf00ff?style=for-the-badge&logo=download&logoColor=white" height="55" />
+  </a>
+</p>
+###
+
+---
 
 ### 🧰 Top Technical Skills & Tools
 <div align="left">
@@ -58,4 +66,3 @@ Figma, Docker, Git, GitHub, GitHub Actions, CI/CD.
 <p>
 <img src="https://raw.githubusercontent.com/tonymans33/tonymans33/output/snake.svg" alt="Snake animation" />
 </p>
-###
