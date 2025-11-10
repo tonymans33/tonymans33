@@ -1,6 +1,9 @@
-<!-- Banner / Title -->
 <p align="center">
-  <img src="https://github.com/tonymans33/tonymans33/blob/master/tony_banner.png" alt="Tony Mansour — Backend Engineer Banner"/>
+  <img src="https://img.shields.io/badge/Tony%20Mansour-Backend%20Engineer-6C63FF?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+<p align="center">
+Backend Engineer with experience in Laravel, Node.js and microservices. I design modular, maintainable systems and focus on clean architecture, performance, and long-term scalability.
 </p>
 
 
