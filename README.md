@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Tony%20Mansour-Backend%20Engineer-6C63FF?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tony%20Mansour-Backend%20Engineer-0A0A0A?style=for-the-badge&logo=serverless&logoColor=white" height="60" />
 </p>
 
 <p align="center">
