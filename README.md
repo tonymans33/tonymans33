@@ -18,12 +18,11 @@ Backend Engineer with experience in Laravel, Node.js and microservices. I design
 </div>
 
 ---
-<p align="center">
+<p align="left">
   <a href="https://drive.google.com/file/d/1KNsol2e3gAkN1-VRCSNPnBYO6zYwYoC1/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20CV-%23bf00ff?style=for-the-badge&logo=download&logoColor=white" height="55" />
+    <img src="https://img.shields.io/badge/Download%20CV-%23bf00ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="55" />
   </a>
 </p>
-###
 
 ---
 
