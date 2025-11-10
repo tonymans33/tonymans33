@@ -56,5 +56,6 @@ Figma, Docker, Git, GitHub, GitHub Actions, CI/CD.
 
 ### 🐍 Contribution Snake
 <p>
-  <img src="https://raw.githubusercontent.com/tonymans33/tonymans33/output/snake.svg" alt="snake"/>
+<img src="https://raw.githubusercontent.com/tonymans33/tonymans33/output/snake.svg" alt="Snake animation" />
 </p>
+###
