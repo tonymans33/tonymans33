@@ -7,69 +7,25 @@ and optimized codebases, implementing clean architecture patterns, and maintaini
 delivering high-quality software that’s easy to extend and maintain, while continuously learning and improving
 </p>
 
-<!-- Social (from your tool block) -->
+### 🔗 Connect
 <div align="left">
-  <a href="https://www.linkedin.com/in/tony-mansour-a8a087200" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://dribbble.com/Tonymans33" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="dribbble logo (using twitter icon from tool)"  />
-  </a>
-  <a href="https://discordapp.com/users/TonyMans11" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="mailto:mansourtony44@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="email (using youtube icon from tool)"  />
-  </a>
+  <a href="https://www.linkedin.com/in/tony-mansour-a8a087200"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="mailto:mansourtony44@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+  <a href="https://discordapp.com/users/TonyMans11"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
+  <a href="https://dribbble.com/Tonymans33"><img src="https://skillicons.dev/icons?i=dribbble" height="45"/></a>
 </div>
 
-###
+---
 
+### 🧰 Top Technical Skills & Tools
 <div align="left">
-
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-
-  <!-- Backend & Frameworks -->
-  <img width="16" /><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  
-  <!-- Microservices / Messaging -->
-  <img width="16" /><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="RabbitMQ" />
-
-  <!-- API / Clients -->
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="40" alt="Postman" />
-
-  <!-- Frontend -->
-  <img width="16" /><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
-
-  <!-- UI / Design -->
-  <img width="16" /><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-
-  <!-- DevOps -->
-  <img width="16" /><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" />
-
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,js" height="45" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq,redis,postman,git,github" height="45" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,vue,wordpress,figma,docker" height="45" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=githubactions,nginx,bash" height="45" />
 </div>
 
 
@@ -100,8 +56,3 @@ Figma, Docker, Git, GitHub, GitHub Actions, CI/CD.
 <p>
   <img src="https://raw.githubusercontent.com/tonymans33/tonymans33/output/snake.svg" alt="snake"/>
 </p>
-
-### 🎧 Recently Played (Spotify)
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
