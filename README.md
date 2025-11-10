@@ -12,8 +12,8 @@ delivering high-quality software that’s easy to extend and maintain, while con
   <a href="https://www.linkedin.com/in/tony-mansour-a8a087200"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="mailto:mansourtony44@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
   <a href="https://discordapp.com/users/TonyMans11"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
- <a href="https://dribble.com/Tonymans33" target="_blank">
-    <img src="https://skillicons.dev/icons?i=dribble" height="45" />
+ <a href="https://dribbble.com/Tonymans33" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dribbble" height="45" />
   </a>
 </div>
 
