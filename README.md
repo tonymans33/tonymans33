@@ -1,10 +1,7 @@
 <!-- Banner / Title -->
 <h1 align="center">Tony Mansour — Backend Engineer</h1>
 <p align="center">
-  I’m a Computer Science graduate from Cairo University with over 4 years of experience in full-stack web development. I specialize in building
-clean, scalable, and well-structured systems, with a strong focus on backend architecture using Laravel. My expertise includes designing modular
-and optimized codebases, implementing clean architecture patterns, and maintaining separation of concerns across layers. I’m passionate about
-delivering high-quality software that’s easy to extend and maintain, while continuously learning and improving
+  Backend Engineer with experience in Laravel, Nodejs and microservices. I design modular, maintainable systems and focus on clean architecture, performance, and long-term scalability.
 </p>
 
 ### 🔗 Connect
@@ -13,7 +10,7 @@ delivering high-quality software that’s easy to extend and maintain, while con
   <a href="mailto:mansourtony44@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
   <a href="https://discordapp.com/users/TonyMans11"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
  <a href="https://dribbble.com/Tonymans33" target="_blank">
-    <img src="https://skillicons.dev/icons?i=dribbble" height="45" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
 </div>
 
