@@ -1,8 +1,8 @@
 <!-- Banner / Title -->
-<h1 align="center">Tony Mansour — Backend Engineer</h1>
 <p align="center">
-  Backend Engineer with experience in Laravel, Nodejs and microservices. I design modular, maintainable systems and focus on clean architecture, performance, and long-term scalability.
+  <img src="https://raw.githubusercontent.com/tonymans33/tonymans33/main/tony_banner.png" alt="Tony Mansour — Backend Engineer Banner"/>
 </p>
+
 
 ### 🔗 Connect
 <div align="left">
