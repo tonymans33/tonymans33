@@ -32,9 +32,9 @@ Backend Engineer with experience in Laravel, Node.js and microservices. I design
   <br/>
   <img src="https://skillicons.dev/icons?i=rabbitmq,redis,postman,git,github" height="45" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,vue,wordpress,figma,docker" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,wordpress,figma,docker" height="45" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=githubactions,nginx,bash" height="45" />
+  <img src="https://skillicons.dev/icons?i=githubactions,bash" height="45" />
 </div>
 
 
@@ -44,7 +44,7 @@ Backend Engineer with experience in Laravel, Node.js and microservices. I design
 **Core Stack:**  
 PHP, Laravel, Node.js, Python, JavaScript, OOP, Data Structures, Clean Code, Automated Testing, Agile,  
 Microservices, API Development, Payment Gateways, Postman, RabbitMQ, React, Vue.js, WordPress,  
-Figma, Docker, Git, GitHub, GitHub Actions, CI/CD.
+Figma, Docker, Git, GitHub
 
 ---
 
