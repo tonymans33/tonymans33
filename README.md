@@ -47,15 +47,15 @@
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=tonymans33&theme=dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=tonymans33&theme=Dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonymans33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="135" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=tonymans33&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonymans33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=Dracula&hide_border=false&order=2" height="135" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=tonymans33&locale=en&mode=daily&theme=Dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
 <div align="center">
 
 ---
