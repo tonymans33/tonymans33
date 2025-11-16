@@ -52,6 +52,14 @@
 
 ---
 
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonymans33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="135" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=tonymans33&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+<div align="center">
+
+---
+
 ### **Core Stack**
 **PHP, Laravel, Node.js, Python, JavaScript, OOP, Data Structures, Clean Code, Automated Testing, Agile, Microservices, API Development, Payment Gateways, Postman, RabbitMQ, React, Vue.js, WordPress, Figma, Docker, Git, GitHub**
 
@@ -64,13 +72,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonymans33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="135" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=tonymans33&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-</p>
-
----
 
 ### 🐍 Contribution Snake
 <p>
