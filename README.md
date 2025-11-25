@@ -34,34 +34,27 @@
 
 #### **Backend Development**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" height="40" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=protonmail&logoColor=white" height="40"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" height="45" />
 </div>
 
 #### **Databases & Caching**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" height="45" />
 </div>
 
 #### **Message Queues & DevOps**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=rabbitmq,docker,git,github,githubactions,bash" height="40" />
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="40"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq,docker,git,github,githubactions,bash" height="45" />
 </div>
 
 #### **Frontend & Design**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,vue,wordpress,figma" height="40" />
+  <img src="https://skillicons.dev/icons?i=js,react,vue,wordpress,figma" height="45" />
 </div>
 
-#### **Tools & Methodologies**
+#### **Tools & Testing**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=postman" height="40" />
-  <img src="https://img.shields.io/badge/OOP-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge&logo=github&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/TDD-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman,jest,vscode" height="45" />
 </div>
 
 ---
@@ -86,63 +79,69 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Laravel Searchable + Recent Search</h3>
+<h3 align="center">🔎 Laravel Searchable + Recent Search</h3>
 <div align="center">  
-<a href="https://github.com/tonymans33/laravel-searchable-with-recent-search" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tonymans33&repo=laravel-searchable-with-recent-search&theme=dracula&hide_border=false" alt="laravel-searchable" />
-</a>
 <p>
 <a href="https://github.com/tonymans33/laravel-searchable-with-recent-search" target="_blank">
-<img src="https://img.shields.io/badge/Code-bf00ff?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View_Code-bf00ff?style=for-the-badge&logo=github&logoColor=white" height="35">
 </a>  
 </p>
-<p><strong>Laravel package for advanced search with recent history tracking</strong></p>
+<p><strong>Laravel package for advanced search functionality with recent history tracking and caching optimization</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">Microservices with RabbitMQ</h3>
+<h3 align="center">🐇 Microservices with RabbitMQ</h3>
 <div align="center">
-<a href="https://github.com/tonymans33/microservices-rabbitmq" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tonymans33&repo=microservices-rabbitmq&theme=dracula&hide_border=false" alt="microservices-rabbitmq" />
-</a>
 <p>
 <a href="https://github.com/tonymans33/microservices-rabbitmq" target="_blank">
-<img src="https://img.shields.io/badge/Code-bf00ff?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View_Code-bf00ff?style=for-the-badge&logo=github&logoColor=white" height="35">
 </a>  
 </p>
-<p><strong>Distributed system architecture with message queue integration</strong></p>
+<p><strong>Distributed system architecture demonstrating inter-service communication with message queue integration</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 </div>
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<h3 align="center">FFmpeg Video Optimizer</h3>
+<h3 align="center">🎬 FFmpeg Video Optimizer</h3>
 <div align="center">
-<a href="https://github.com/tonymans33/video-optimizer" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tonymans33&repo=video-optimizer&theme=dracula&hide_border=false" alt="video-optimizer" />
-</a>
 <p>
 <a href="https://github.com/tonymans33/video-optimizer" target="_blank">
-<img src="https://img.shields.io/badge/Code-bf00ff?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View_Code-bf00ff?style=for-the-badge&logo=github&logoColor=white" height="35">
 </a>
 </p>
-<p><strong>Automated video compression and optimization tool</strong></p>
+<p><strong>Automated video compression and optimization tool using FFmpeg for efficient media processing</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
+<img src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=windowsterminal&logoColor=white"/>
+</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">More Projects</h3>
+<h3 align="center">📦 More Projects</h3>
 <div align="center">
 <br>
 <p>
 <a href="https://github.com/tonymans33?tab=repositories" target="_blank">
-<img src="https://img.shields.io/badge/View_All_Repos-bf00ff?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View_All_Repos-bf00ff?style=for-the-badge&logo=github&logoColor=white" height="35">
 </a>
 </p>
 <br>
-<p>Explore more of my work including e-commerce platforms, payment integrations, and full-stack applications</p>
+<p>Explore more of my work including e-commerce platforms, payment gateway integrations, and full-stack applications</p>
 </div>
 </td>
 </tr>
